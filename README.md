@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parman-Sangha
 - 👀 I’m interested in Front end and Full stack develpment
-- 🌱 I’m currently learning Full stack
+- 🌱 I’m currently learning HTML, SCSS, JS
 - 📫 How to reach me Parmansangha@gmail.com
 
 <!---
